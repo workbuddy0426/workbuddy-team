@@ -10,9 +10,8 @@
 | 小林 💡 | 林 | Idea Capture | 灵感、想法快速记录 |
 | 小红 📕 | 红 | 小红书助手 | 小红书运营推广、笔记发布、搜索、互动、博主分析 |
 | 小风 🎨 | 风 | baoyu-cover-image | 文章封面图生成、视觉设计 |
-| 小G 🐙 | G | GitHub | 代码仓库管理、Issues/PR/CI操作 |
+| 小G 🐙 | G | GitHub + GitHub AI Trends | 代码仓库管理、Issues/PR/CI操作、AI趋势追踪 |
 | 小图 🖼️ | 图 | Jimeng AI | 小红书封面生成、AI绘画、自媒体配图 |
-| 小H 📈 | H | GitHub AI Trends | GitHub AI趋势追踪、热门项目排行榜 |
 
 > **2026-04-26 更新**：小图改用 Jimeng AI（即梦AI）Skill，通过 AI 绘画生成高质量小红书封面图。
 > 
