@@ -12,8 +12,11 @@
 | 小风 🎨 | 风 | baoyu-cover-image | 文章封面图生成、视觉设计 |
 | 小G 🐙 | G | GitHub | 代码仓库管理、Issues/PR/CI操作 |
 | 小图 🖼️ | 图 | Jimeng AI | 小红书封面生成、AI绘画、自媒体配图 |
+| 小H 📈 | H | GitHub AI Trends | GitHub AI趋势追踪、热门项目排行榜 |
 
 > **2026-04-26 更新**：小图改用 Jimeng AI（即梦AI）Skill，通过 AI 绘画生成高质量小红书封面图。
+> 
+> **2026-04-26 更新**：新增小H Agent，使用 GitHub AI Trends Skill，追踪GitHub热门AI项目。
 
 > **2026-04-25 更新**：用户已删除 book2skill skill，反馈"这个skill不好用"。book2skill 流程（阶段0→1→1.5→2→3→4）被认为过于繁琐、产出不够直接。后续如有书籍/文章拆解需求，改用更轻量的方式处理。
 
